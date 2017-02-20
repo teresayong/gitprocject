@@ -1,0 +1,31 @@
+body {
+  background-image: url();
+}
+#Red {
+  background-color: red;
+  color: white;
+}
+#Orange {
+background-color: orange;
+color: white;
+}
+#Yellow {
+background-color: yellow;
+color: white;
+}
+#Green {
+  background-color: green;
+  color: white;
+}
+#Blue {
+  background-color: blue;
+  color: white;
+}
+#Indigo {
+  background-color: indigo;
+  color: white;
+}
+#Violet {
+  background-color: violet;
+  color: white;
+}
