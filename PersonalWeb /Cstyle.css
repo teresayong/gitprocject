@@ -1,0 +1,54 @@
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 32pt;
+  color: black;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+body {
+  background-image: url("classes.jpg");
+  font-family: "Courier New", Courier, monospace;
+  font-size: 14pt;
+  color: black;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+#menu {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20pt;
+  color: black;
+  border-bottom: 2px solid white;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+#Red {
+  color: black;
+  font-size: 16pt;
+}
+#Orange {
+  color: black;
+  font-size: 16pt;
+}
+#Yellow {
+  color: black;
+  font-size: 16pt;
+}
+#Green {
+  color: black;
+  font-size: 16pt;
+}
+#Blue {
+  color: black;
+  font-size: 16pt;
+}
+#Indigo {
+  color: black;
+  font-size: 16pt;
+}
+#Violet {
+  color: black;
+  font-size: 16pt;
+}
